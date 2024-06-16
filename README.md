@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/behindd/behindd/assets/76596012/13d695aa-116b-47d3-aa3a-0be16139c370" alt="NCG200" width="500" height="450" />
+      <img src="https://github.com/behindd/behindd/assets/76596012/5b391060-c976-4a58-bb11-a82b8b822b1a" alt="NCG197" width="500" height="450" />
     </td>
     <td>
 -  Red Teamer/Pentester <br>
@@ -11,6 +11,7 @@
     </td>
   </tr>
 </table>
+
 
 <!--
 **behindd/behindd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
