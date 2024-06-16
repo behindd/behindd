@@ -8,9 +8,9 @@
       <img src="https://github.com/behindd/behindd/assets/76596012/13d695aa-116b-47d3-aa3a-0be16139c370" alt="NCG200" width="500" height="450" />
     </td>
     <td>
--  Red Teamer/Pentester
--  Twitter/X : https://twitter.com/justt_N
--  YouTube : https://www.youtube.com/@Cyber0xC
+-  Red Teamer/Pentester <br>
+-  Twitter/X : https://twitter.com/justt_N <br>
+-  YouTube : https://www.youtube.com/@Cyber0xC <br>
     </td>
   </tr>
 </table>
