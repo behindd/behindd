@@ -9,6 +9,8 @@
 -  YouTube : https://www.youtube.com/@Cyber0xC
 
 <br>
+![NCG200-scaled](https://github.com/behindd/behindd/assets/76596012/13d695aa-116b-47d3-aa3a-0be16139c370)
+
 
 <!--
 **behindd/behindd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
