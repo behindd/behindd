@@ -1,7 +1,4 @@
 ## Hi there! It's N👋</span>
-<p align="left">
-  <img src="https://github.com/behindd/behindd/assets/76596012/13d695aa-116b-47d3-aa3a-0be16139c370" alt="NCG200" width="500" height="450" />
-</p>
 <table>
   <tr>
     <td>
