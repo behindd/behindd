@@ -6,7 +6,7 @@
     </td>
     <td>
                              
-<strong style="font-size: 24px;">𝕊𝔼ℂ𝕌ℝ𝕀𝕋𝕐 ℝ𝔼𝕊𝔼𝔸ℝℂℍ𝔼ℝ</strong>  
+<strong style="font-size: 34px;">𝕊𝔼ℂ𝕌ℝ𝕀𝕋𝕐 ℝ𝔼𝕊𝔼𝔸ℝℂℍ𝔼ℝ</strong>  
 -  Red Teamer/Pentester <br>
 -  Things I do for fun: Video Games/Anime/Manga/Billiards/Martial Arts <br>
 -  I love cats! <br>
