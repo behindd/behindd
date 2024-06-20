@@ -1,5 +1,4 @@
 ## Hi there! It's N👋</span>
-<table>
   <tr>
     <td>
       <img src="https://github.com/behindd/behindd/assets/76596012/f31bae7d-d1fe-465e-ba96-8317629c1430" alt="IMG_1094" width="800" height="450" />
@@ -15,4 +14,4 @@
 -  YouTube : https://www.youtube.com/@Cyber0xC <br>
     </td>
   </tr>
-</table>
+
