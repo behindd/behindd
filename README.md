@@ -1,6 +1,6 @@
 <!-- DESKTOP -->
 ## Hi there! It's N👋
-<p align="left">
+<p align="middle">
       <img src="https://github.com/behindd/behindd/assets/76596012/f31bae7d-d1fe-465e-ba96-8317629c1430" alt="IMG_1094" width="400" height="400" />
 </p>
 <strong style="font-size: 45px;">𝕊𝔼ℂ𝕌ℝ𝕀𝕋𝕐 ℝ𝔼𝕊𝔼𝔸ℝℂℍ𝔼ℝ</strong><br>
