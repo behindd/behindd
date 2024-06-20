@@ -12,7 +12,6 @@
 -  I love cats! <br>
 -  Twitter/X : https://twitter.com/justt_N <br>
 -  YouTube : https://www.youtube.com/@Cyber0xC <br>
-      -  Image Credit: by NCG "No Copyright Girl" <br>
     </td>
   </tr>
 </table>
