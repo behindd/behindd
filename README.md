@@ -6,8 +6,11 @@
     </td>
     <td>
 -  Red Teamer/Pentester <br>
+-  𝕊𝔼ℂ𝕌ℝ𝕀𝕋𝕐 ℝ𝔼𝕊𝔼𝔸ℝℂℍ𝔼ℝ <br>
+-  Things I do for fun: Video Games/Anime/Manga/Billiards/Martial Arts <br>
 -  Twitter/X : https://twitter.com/justt_N <br>
 -  YouTube : https://www.youtube.com/@Cyber0xC <br>
+
     </td>
   </tr>
 </table>
