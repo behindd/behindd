@@ -29,13 +29,16 @@
     .text-container strong {
         font-size: 45px;
     }
+    a {
+        color: #58a6ff;
+    }
 </style>
 </head>
 <body>
 
 <div class="container">
     <div class="image-container">
-        <img src="https://github.com/behindd/behindd/assets/76596012/f31bae7d-d1fe-465e-ba96-8317629c1430" alt="Profile Image" width="400" height="400" />
+        <img src="/mnt/data/image.png" alt="Profile Image" width="400" height="400" />
     </div>
     <div class="text-container">
         <strong>𝕊𝔼ℂ𝕌ℝ𝕀𝕋𝕐 ℝ𝔼𝕊𝔼𝔸ℝℂℍ𝔼ℝ</strong>  
@@ -43,13 +46,14 @@
         <p>- I do a little bit of Malware Development</p>
         <p>- Things I do for fun: Video Games/Anime/Manga/Billiards/Martial Arts</p>
         <p>- I love cats!</p>
-        <p>- Twitter/X: <a href="https://twitter.com/justt_N" style="color: #58a6ff;">https://twitter.com/justt_N</a></p>
-        <p>- YouTube: <a href="https://www.youtube.com/@Cyber0xC" style="color: #58a6ff;">https://www.youtube.com/@Cyber0xC</a></p>
+        <p>- Twitter/X: <a href="https://twitter.com/justt_N">https://twitter.com/justt_N</a></p>
+        <p>- YouTube: <a href="https://www.youtube.com/@Cyber0xC">https://www.youtube.com/@Cyber0xC</a></p>
     </div>
 </div>
 
 </body>
 </html>
+
 
 
 
