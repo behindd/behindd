@@ -7,12 +7,12 @@
     <td>
                              
 <strong style="font-size: 45px;">𝕊𝔼ℂ𝕌ℝ𝕀𝕋𝕐 ℝ𝔼𝕊𝔼𝔸ℝℂℍ𝔼ℝ</strong>  
--  Red Teamer/Pentester <br>
--  I do a little bit of Malware Development <br>
--  Things I do for fun: Video Games/Anime/Manga/Billiards/Martial Arts <br>
--  I love cats! <br>
--  Twitter/X : https://twitter.com/justt_N <br>
--  YouTube : https://www.youtube.com/@Cyber0xC <br>
+- Red Teamer/Pentester <br>
+- I do a little bit of Malware Development <br>
+- Things I do for fun: Video Games/Anime/Manga/Billiards/Martial Arts <br>
+- I love cats! <br>
+- Twitter/X : https://twitter.com/justt_N <br>
+- YouTube : https://www.youtube.com/@Cyber0xC <br>
     </td>
   </tr>
 </table>
