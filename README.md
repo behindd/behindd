@@ -2,10 +2,11 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/behindd/behindd/assets/76596012/5b391060-c976-4a58-bb11-a82b8b822b1a" alt="NCG197" width="500" height="450" />
+      <img src="https://github.com/behindd/behindd/assets/76596012/f31bae7d-d1fe-465e-ba96-8317629c1430" alt="IMG_1094" width="500" height="450" />
     </td>
     <td>
-                                                            𝕊𝔼ℂ𝕌ℝ𝕀𝕋𝕐 ℝ𝔼𝕊𝔼𝔸ℝℂℍ𝔼ℝ <br>
+                             ![IMG_1094](https://github.com/behindd/behindd/assets/76596012/f31bae7d-d1fe-465e-ba96-8317629c1430)
+                               𝕊𝔼ℂ𝕌ℝ𝕀𝕋𝕐 ℝ𝔼𝕊𝔼𝔸ℝℂℍ𝔼ℝ <br>
 -  Red Teamer/Pentester <br>
 -  Things I do for fun: Video Games/Anime/Manga/Billiards/Martial Arts <br>
 -  I love cats! <br>
