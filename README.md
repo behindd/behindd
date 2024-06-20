@@ -6,7 +6,7 @@
     </td>
     <td>
                              
-                               𝕊𝔼ℂ𝕌ℝ𝕀𝕋𝕐 ℝ𝔼𝕊𝔼𝔸ℝℂℍ𝔼ℝ <br>
+                            <br>   𝕊𝔼ℂ𝕌ℝ𝕀𝕋𝕐 ℝ𝔼𝕊𝔼𝔸ℝℂℍ𝔼ℝ <br>
 -  Red Teamer/Pentester <br>
 -  Things I do for fun: Video Games/Anime/Manga/Billiards/Martial Arts <br>
 -  I love cats! <br>
