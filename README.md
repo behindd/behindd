@@ -7,7 +7,7 @@
     <td>
                              
 <strong style="font-size: 45px;">𝕊𝔼ℂ𝕌ℝ𝕀𝕋𝕐 ℝ𝔼𝕊𝔼𝔸ℝℂℍ𝔼ℝ</strong>  
-- PsyOp/Red Teamer/Threat Hunter <br>
+- PsyOp/Red Team/Threat Hunter <br>
 - Researching Malware <br>
 - Learning Reverse Engineering <br>
 - Things I do for fun: Video Games/Anime/Manga/Martial Arts <br>
