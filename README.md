@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/behindd/behindd/assets/76596012/f31bae7d-d1fe-465e-ba96-8317629c1430" alt="IMG_1094" width="900" height="250" />
+      <img src="https://github.com/behindd/behindd/assets/76596012/f31bae7d-d1fe-465e-ba96-8317629c1430" alt="IMG_1094" width="2600" height="450" />
     </td>
     <td>
                              
