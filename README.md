@@ -15,6 +15,16 @@
 - Twitter/X : https://twitter.com/justt_N <br>
 - YouTube : https://www.youtube.com/@Cyber0xC <br>
 - Website : https://yamiware.com/ <br>
+
+# Cybersecurity Project Portfolio 🔐
+
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. Vulnerability management project allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation]()**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
     </td>
   </tr>
 </table>
