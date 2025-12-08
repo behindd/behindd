@@ -12,9 +12,7 @@
 - Learning Reverse Engineering <br>
 - Things I do for fun: Video Games/Anime/Manga/Martial Arts <br>
 - I love cats! <br>
-- Twitter/X : https://twitter.com/justt_N <br>
 - YouTube : https://www.youtube.com/@Cyber0xC <br>
-- Website : https://yamiware.com/ <br>
     </td>
   </tr>
 </table>
