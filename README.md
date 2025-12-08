@@ -11,7 +11,6 @@
 - Researching Malware <br>
 - Learning Reverse Engineering <br>
 - Things I do for fun: Video Games/Anime/Manga/Martial Arts <br>
-- I love cats! <br>
 - YouTube : https://www.youtube.com/@Cyber0xC <br>
     </td>
   </tr>
