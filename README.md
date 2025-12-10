@@ -12,6 +12,7 @@
 - Learning Reverse Engineering <br>
 - Things I do for fun: Video Games/Anime/Manga/Martial Arts <br>
 - YouTube : https://www.youtube.com/@Cyber0xC <br>
+- X: justt_N
     </td>
   </tr>
 </table>
